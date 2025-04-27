@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @kattabhavana9
+- 👩‍💻 I’m interested in AI, Machine Learning, Data Science, and Software Development.
+- 🌱 I’m currently learning Advanced Data Analytics, Full-Stack Development, and sharpening my skills in Competitive Programming.
+- 🤝 I’m looking to collaborate on AI/ML projects, Data Analytics projects, and innovative Web Development ideas.
+- 📫 How to reach me: 
+  - Email: kattabhavana34@gmail.com
+  - LinkedIn: [kattabhavana145](https://www.linkedin.com/in/kattabhavana145/)
+  - Portfolio: https://kattabhavana-portfolio.netlify.app/
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love turning complex problems into simple, elegant solutions — and I'm a huge fan of tech communities and hackathons!
+
