@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
   - Email: kattabhavana34@gmail.com
   - LinkedIn: [kattabhavana145](https://www.linkedin.com/in/kattabhavana145/)
-  - Portfolio: https://bhavanakatta-portfolio.netlify.app/
+  - Portfolio: https://katta-bhavanaportfolio.netlify.app/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love turning complex problems into simple, elegant solutions — and I'm a huge fan of tech communities and hackathons!
 
